@@ -32,3 +32,6 @@ and put them back into the training set to be a 20/80 split.
 # Tuning Hyperparameters
 The hyperparameter files are the different models I tested to tune my model 
 
+# Submission 
+- The JH1101620 was my final submission file to kaggle
+- 181008 was my previous prediction on my Tuesday 10/16/2018 presentation making the JH101618 prediction
