@@ -34,4 +34,7 @@ The hyperparameter files are the different models I tested to tune my model
 
 # Submission 
 - The JH1101620 was my final submission file to kaggle
-- 181008 was my previous prediction on my Tuesday 10/16/2018 presentation making the JH101618 prediction
+- 181008 was my previous prediction on my Tuesday 10/16/2018 presentation making the JH101618 prediction. 
+
+# Explanation of Work
+My presentation is Practicum 1.pdf that explains my work
