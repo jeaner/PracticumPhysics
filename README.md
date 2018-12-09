@@ -1,6 +1,10 @@
 # PracticumPhysics
 The flavors of physics kaggle competition completed for Regis University's MSDS Practicum 1
 
+# Explanation of Work
+My presentation is Practicum 1.pdf that explains my work
+
+
 # Competition Website
 https://www.kaggle.com/c/flavours-of-physics
 Please download the following files from the kaggle competition to perform this model:
@@ -36,5 +40,3 @@ The hyperparameter files are the different models I tested to tune my model
 - The JH1101620 was my final submission file to kaggle
 - 181008 was my previous prediction on my Tuesday 10/16/2018 presentation making the JH101618 prediction. 
 
-# Explanation of Work
-My presentation is Practicum 1.pdf that explains my work
